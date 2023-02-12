@@ -1,7 +1,9 @@
 .header{
     background-color: rgb(17, 11, 3);
-    color: rgb(185, 128, 53);
+    color: rgb(223, 182, 128);
     text-align: center;
     width: 100%;
+    padding: 2%;
     height: fit-content;
+    
 }
